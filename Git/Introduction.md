@@ -8,3 +8,8 @@
 
 ## git status
     tells about the untracked and modified files
+
+## git stash
+    it takes all tracked(git add) and uncommited changes to stash area
+### git stash pop
+### git stash clear
