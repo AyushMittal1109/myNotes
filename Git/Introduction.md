@@ -8,5 +8,3 @@
 
 ## git status
     tells about the untracked and modified files
-
-    dsdsds
