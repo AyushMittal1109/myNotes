@@ -13,3 +13,17 @@
     it takes all tracked(git add) and uncommited changes to stash area
 ### git stash pop
 ### git stash clear
+
+#### origin
+name of the url
+
+#### git push origin main
+origin is the url name
+main is the name of branch to which we want to push
+
+# head
+    points to the current branch
+    its a pointer
+    all commits will be added to head pointed branch
+
+
